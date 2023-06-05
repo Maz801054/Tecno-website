@@ -1,0 +1,13 @@
+.navigation {
+  text-align: center;
+}
+li {
+  padding-left: 20px;
+}
+.carousel-item img {
+  width: 100%;
+  height: 80vh;
+}
+h1 {
+  font-family: "Dancing Script", cursive;
+}
